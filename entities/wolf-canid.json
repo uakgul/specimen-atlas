@@ -1,0 +1,344 @@
+{
+ "species": "Wolf/Canid",
+ "binomial": "Canis",
+ "color": "#9aa7b0",
+ "count": 7,
+ "recs": [
+  {
+   "id": 75,
+   "species": "Wolf/Canid",
+   "color": "#9aa7b0",
+   "binomial": "Canus familiaris",
+   "secondary": null,
+   "location": "Razboinichya Cave (Goyet)",
+   "lat": 54.15,
+   "lon": 88.81667,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "51°189'N",
+   "lon_raw": "84°289'E",
+   "date_coll": [
+    "1975",
+    "val"
+   ],
+   "date_found": [
+    "1975",
+    "val"
+   ],
+   "age": [
+    "36, 000 cal. BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Skull only",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Sent to labs in Tuscon, Oxford, and Gronigen for radiocarbon dating, 2008; ",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1075.3,
+   "y": 266.9
+  },
+  {
+   "id": 103,
+   "species": "Wolf/Canid",
+   "color": "#9aa7b0",
+   "binomial": "Canus lupus",
+   "secondary": null,
+   "location": "Taimyr Lake",
+   "lat": 74.65419,
+   "lon": 100.51008,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "74°39'15.1\"N",
+   "lon_raw": "100°30'36.3\"E",
+   "date_coll": [
+    "2000",
+    "val"
+   ],
+   "date_found": [
+    "2000",
+    "val"
+   ],
+   "age": [
+    "16, 220 +/- 50 cal. BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Skull fragment and right mandible",
+    "val"
+   ],
+   "stored": [
+    "London",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1122.0,
+   "y": 95.1
+  },
+  {
+   "id": 113,
+   "species": "Wolf/Canid",
+   "color": "#9aa7b0",
+   "binomial": "Canus familiaris",
+   "secondary": null,
+   "location": "Razboinichya Cave (Goyet)",
+   "lat": 50.4,
+   "lon": 5.81667,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "50°24'N",
+   "lon_raw": "05°049'E",
+   "date_coll": [
+    "2008",
+    "val"
+   ],
+   "date_found": [
+    "2008",
+    "val"
+   ],
+   "age": [
+    "36, 000 cal. BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Skull only",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 743.3,
+   "y": 298.3
+  },
+  {
+   "id": 122,
+   "species": "Wolf/Canid",
+   "color": "#9aa7b0",
+   "binomial": "Canus lupus",
+   "secondary": "na",
+   "location": "Tumat",
+   "lat": 71.02833,
+   "lon": 139.84694,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71°01'42.0\"N",
+   "lon_raw": "139 ° 50' 49\"E",
+   "date_coll": [
+    "2011",
+    "val"
+   ],
+   "date_found": [
+    "2011",
+    "val"
+   ],
+   "age": [
+    "12, 460±50 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, skin, hair, soft tissue",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Fur sent to Copenhagen for analyss, 2011",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1279.4,
+   "y": 125.5
+  },
+  {
+   "id": 127,
+   "species": "Wolf/Canid",
+   "color": "#9aa7b0",
+   "binomial": "Canus lupus",
+   "secondary": null,
+   "location": "Torca del Leon cave",
+   "lat": 43.40273,
+   "lon": -4.83099,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "43° 24' 9.83\" N",
+   "lon_raw": "4°49' 51.58\" W",
+   "date_coll": [
+    "2017",
+    "val"
+   ],
+   "date_found": [
+    "2014",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "teeth, partial skull, leg bones, mandibles",
+    "val"
+   ],
+   "stored": [
+    "Oviedo",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 700.7,
+   "y": 356.9
+  },
+  {
+   "id": 131,
+   "species": "Wolf/Canid",
+   "color": "#9aa7b0",
+   "binomial": "Canus lupus",
+   "secondary": null,
+   "location": "Tumat",
+   "lat": 71.02833,
+   "lon": 139.84694,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71°01'42.0\"N",
+   "lon_raw": "139 ° 50' 49\"E",
+   "date_coll": [
+    "2015",
+    "val"
+   ],
+   "date_found": [
+    "2015",
+    "val"
+   ],
+   "age": [
+    "14 122 cal. BP",
+    "val"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "fur, soft tissue, skeleton",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1279.4,
+   "y": 125.5
+  },
+  {
+   "id": 134,
+   "species": "Wolf/Canid",
+   "color": "#9aa7b0",
+   "binomial": null,
+   "secondary": null,
+   "location": "Indigirka River",
+   "lat": 64.66667,
+   "lon": 147.75,
+   "src": "sibling",
+   "geonote": "Borrowed from another Indigirka River specimen (id 64).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "Not recorded",
+    "na"
+   ],
+   "date_found": [
+    "2018",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Not recorded",
+    "na"
+   ],
+   "parts": [
+    "Not recorded",
+    "na"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1311.0,
+   "y": 178.8
+  }
+ ]
+}

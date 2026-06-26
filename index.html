@@ -180,16 +180,17 @@
 <script>
 (async function(){
 const LAND=document.getElementById('land').textContent;
-let D;
+let SP, RECS, W, Hh;
 try{
-  const resp=await fetch('data.json',{cache:'no-cache'});
-  if(!resp.ok) throw new Error('HTTP '+resp.status);
-  D=await resp.json();
+  const j=async(u)=>{const r=await fetch(u,{cache:'no-cache'}); if(!r.ok) throw new Error(u+' \u2192 HTTP '+r.status); return r.json();};
+  const manifest=await j('data.json');
+  SP=manifest.species; W=manifest.W; Hh=manifest.H;
+  const parts=await Promise.all(Object.values(manifest.entities).map(j));
+  RECS=parts.flatMap(p=>p.recs).sort((a,b)=>a.id-b.id);
 }catch(err){
-  document.getElementById('panel').innerHTML='<div class="empty"><p style="color:#e07a5f">data.json y\u00fcklenemedi: '+err.message+'</p></div>';
-  console.error('data.json load failed',err); return;
+  document.getElementById('panel').innerHTML='<div class="empty"><p style="color:#e07a5f">Veri y\u00fcklenemedi: '+err.message+'</p></div>';
+  console.error('data load failed',err); return;
 }
-const SP=D.species, RECS=D.recs, W=D.W, Hh=D.H;
 const NS="http://www.w3.org/2000/svg";
 const el=(t,a={})=>{const n=document.createElementNS(NS,t);for(const k in a)n.setAttribute(k,a[k]);return n;};
 const byId={}; RECS.forEach(r=>byId[r.id]=r);

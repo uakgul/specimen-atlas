@@ -1,0 +1,296 @@
+{
+ "species": "Horse",
+ "binomial": "Equus ferus",
+ "color": "#c79be0",
+ "count": 6,
+ "recs": [
+  {
+   "id": 21,
+   "species": "Horse",
+   "color": "#c79be0",
+   "binomial": "Equus ferus",
+   "secondary": null,
+   "location": "Yana River",
+   "lat": 71.27958,
+   "lon": 136.14081,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71°16'46.5\"N",
+   "lon_raw": "136°08'26.9\"E",
+   "date_coll": [
+    "Not recorded",
+    "na"
+   ],
+   "date_found": [
+    "1878",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "\"carcass of a white horse\"",
+    "val"
+   ],
+   "stored": [
+    "Not_Collected",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1264.6,
+   "y": 123.3
+  },
+  {
+   "id": 64,
+   "species": "Horse",
+   "color": "#c79be0",
+   "binomial": "Equus przewalskii",
+   "secondary": "Selerikan Horse",
+   "location": "Indigirka River",
+   "lat": 64.66667,
+   "lon": 147.75,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "64°40' N",
+   "lon_raw": "147°45' E",
+   "date_coll": [
+    "1968",
+    "val"
+   ],
+   "date_found": [
+    "1968",
+    "val"
+   ],
+   "age": [
+    "35 000 -39 000 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "legs, body, skeleton, hair, soft tissues, bone, no head",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "body flown to Zoological Institue in Leningrad",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1311.0,
+   "y": 178.8
+  },
+  {
+   "id": 85,
+   "species": "Horse",
+   "color": "#c79be0",
+   "binomial": "Equus lenensis",
+   "secondary": null,
+   "location": "Lake Dyokarskoye",
+   "lat": null,
+   "lon": null,
+   "src": "unplaced",
+   "geonote": "Lake Dyokarskoye — locality not reliably geocoded.",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1981",
+    "val"
+   ],
+   "date_found": [
+    "1981",
+    "val"
+   ],
+   "age": [
+    "29 500  ± 500 yBP ",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "head, anterior part of torso, hair",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": null,
+   "y": null
+  },
+  {
+   "id": 88,
+   "species": "Horse",
+   "color": "#c79be0",
+   "binomial": "Equus przewalskii",
+   "secondary": null,
+   "location": "Titaluk River",
+   "lat": 69.58333,
+   "lon": -156.58333,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "69°35' N",
+   "lon_raw": "156°35' W",
+   "date_coll": [
+    "1983",
+    "val"
+   ],
+   "date_found": [
+    "1983",
+    "val"
+   ],
+   "age": [
+    "17 190 +/- 240",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "complete forefoot including hoof, skull, radius, soft tissue, hair",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 93.7,
+   "y": 137.6
+  },
+  {
+   "id": 118,
+   "species": "Horse",
+   "color": "#c79be0",
+   "binomial": "Equus lenensis",
+   "secondary": null,
+   "location": "Batagaika crater",
+   "lat": 67.58,
+   "lon": 134.77139,
+   "src": "sibling",
+   "geonote": "Borrowed from the dated Batagaika crater specimen (id 135).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "2009",
+    "val"
+   ],
+   "date_found": [
+    "2009",
+    "val"
+   ],
+   "age": [
+    "4450 +/- 35 c. yr BP",
+    "val"
+   ],
+   "complete": [
+    "Not recorded",
+    "na"
+   ],
+   "parts": [
+    "Not recorded",
+    "na"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1259.1,
+   "y": 154.3
+  },
+  {
+   "id": 135,
+   "species": "Horse",
+   "color": "#c79be0",
+   "binomial": "Equus lenensis",
+   "secondary": null,
+   "location": "Batagaika crater",
+   "lat": 67.58,
+   "lon": 134.77139,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "67° 34' 48\"N",
+   "lon_raw": "134° 46' 17\"E",
+   "date_coll": [
+    "2018",
+    "val"
+   ],
+   "date_found": [
+    "2018",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "fur, skeleton, soft tissues, organs tail, hooves",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1259.1,
+   "y": 154.3
+  }
+ ]
+}

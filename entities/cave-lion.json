@@ -1,0 +1,344 @@
+{
+ "species": "Cave Lion",
+ "binomial": "Panthera spelaea",
+ "color": "#e07a5f",
+ "count": 7,
+ "recs": [
+  {
+   "id": 91,
+   "species": "Cave Lion",
+   "color": "#e07a5f",
+   "binomial": "Panthera spelaea",
+   "secondary": null,
+   "location": "Duvanny (Kolyma River)",
+   "lat": 69.0,
+   "lon": 158.0,
+   "src": "geocoded",
+   "geonote": "Duvanny Yar, lower Kolyma River (verified ~69°N 158°E).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "Not recorded",
+    "na"
+   ],
+   "date_found": [
+    "1987",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Not recorded",
+    "na"
+   ],
+   "parts": [
+    "Not recorded",
+    "na"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1352.0,
+   "y": 142.4
+  },
+  {
+   "id": 115,
+   "species": "Cave Lion",
+   "color": "#e07a5f",
+   "binomial": "Panthera spelaea",
+   "secondary": null,
+   "location": "Anuisk",
+   "lat": 68.18,
+   "lon": 161.44,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "68.18°N",
+   "lon_raw": "161.44°E",
+   "date_coll": [
+    "2008, 2009",
+    "val"
+   ],
+   "date_found": [
+    "2008",
+    "val"
+   ],
+   "age": [
+    "61 000+ years / 28, 690± 130 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "partial skeleton, claws, claw sheath, lower jaw, hair",
+    "val"
+   ],
+   "stored": [
+    "Moscow",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1365.8,
+   "y": 149.3
+  },
+  {
+   "id": 128,
+   "species": "Cave Lion",
+   "color": "#e07a5f",
+   "binomial": "Panthera spelaea",
+   "secondary": null,
+   "location": "Torca del Leon cave",
+   "lat": 43.40273,
+   "lon": -4.83099,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "43° 24' 9.83\" N",
+   "lon_raw": "4°49' 51.58\" W",
+   "date_coll": [
+    "2017",
+    "val"
+   ],
+   "date_found": [
+    "2014",
+    "val"
+   ],
+   "age": [
+    "43 001 ± 521 cal BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "bones, incomplete skull, mandible, vertebrae, ribs, scapulae",
+    "val"
+   ],
+   "stored": [
+    "Oviedo",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 700.7,
+   "y": 356.9
+  },
+  {
+   "id": 129,
+   "species": "Cave Lion",
+   "color": "#e07a5f",
+   "binomial": "Panthera spelaea",
+   "secondary": null,
+   "location": "Uyandina River",
+   "lat": 68.0,
+   "lon": 144.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "68°33.759N",
+   "lon_raw": "144°45.980 E",
+   "date_coll": [
+    "2015",
+    "val"
+   ],
+   "date_found": [
+    "2015",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "fur, skeleton, soft itssue, claws, teeth, brain",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1296.0,
+   "y": 150.8
+  },
+  {
+   "id": 130,
+   "species": "Cave Lion",
+   "color": "#e07a5f",
+   "binomial": "Panthera spelaea",
+   "secondary": null,
+   "location": "Uyandina River",
+   "lat": 68.0,
+   "lon": 144.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "68°33.759N",
+   "lon_raw": "144°45.980 E",
+   "date_coll": [
+    "2015",
+    "val"
+   ],
+   "date_found": [
+    "2015",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "head, distal fore limb, torso fragment w/ skin",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1296.0,
+   "y": 150.8
+  },
+  {
+   "id": 132,
+   "species": "Cave Lion",
+   "color": "#e07a5f",
+   "binomial": "Panthera spelaea",
+   "secondary": null,
+   "location": "Semyuelyakh River",
+   "lat": 68.0,
+   "lon": 147.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "N68, 57889",
+   "lon_raw": "E147, 16055",
+   "date_coll": [
+    "2017",
+    "val"
+   ],
+   "date_found": [
+    "2017",
+    "val"
+   ],
+   "age": [
+    "43 448 ± 389",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "fur, skeleton, soft itssue, claws, teeth, skin, no tail",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "radiocarbon dated in Japan",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1308.0,
+   "y": 150.8
+  },
+  {
+   "id": 133,
+   "species": "Cave Lion",
+   "color": "#e07a5f",
+   "binomial": "Panthera spelaea",
+   "secondary": null,
+   "location": "Semyuelyakh River",
+   "lat": 68.0,
+   "lon": 147.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "N68, 57889",
+   "lon_raw": "E147, 16055",
+   "date_coll": [
+    "2018",
+    "val"
+   ],
+   "date_found": [
+    "2018",
+    "val"
+   ],
+   "age": [
+    "27962 ± 109",
+    "val"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "fur, skeleton, soft itssue, claws, teeth, skin",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "radiocarbon dated in Japan",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1308.0,
+   "y": 150.8
+  }
+ ]
+}

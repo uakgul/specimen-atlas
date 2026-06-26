@@ -1,0 +1,488 @@
+{
+ "species": "Rhinoceros",
+ "binomial": "Coelodonta antiquitatis",
+ "color": "#7fd1e0",
+ "count": 10,
+ "recs": [
+  {
+   "id": 6,
+   "species": "Rhinoceros",
+   "color": "#7fd1e0",
+   "binomial": "Coelodonta antiquitatis",
+   "secondary": "Pallas Rhino",
+   "location": "Vilui  River (Irkutsk)",
+   "lat": 63.77058,
+   "lon": 121.65636,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "63°46'14.1\"N",
+   "lon_raw": "121°39'22.9\"E",
+   "date_coll": [
+    "1772",
+    "val"
+   ],
+   "date_found": [
+    "1771",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Head, forefoot, hindfoot",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1206.6,
+   "y": 186.3
+  },
+  {
+   "id": 17,
+   "species": "Rhinoceros",
+   "color": "#7fd1e0",
+   "binomial": "Coelodonta antiquitatis",
+   "secondary": null,
+   "location": "Vilui  River ",
+   "lat": 60.0,
+   "lon": 120.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "60° N",
+   "lon_raw": "120° E",
+   "date_coll": [
+    "1858",
+    "val"
+   ],
+   "date_found": [
+    "1858",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "skeleton, ligaments, \"some soft parts\"",
+    "val"
+   ],
+   "stored": [
+    "Moscow",
+    "val"
+   ],
+   "dispersal": [
+    "Stubendorff first presented the specimens to the Irkutsk museum; from there they were given to the Russian Academy of Sciences in Moscow",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1200.0,
+   "y": 217.9
+  },
+  {
+   "id": 20,
+   "species": "Rhinoceros",
+   "color": "#7fd1e0",
+   "binomial": "Coelodonta antiquitatis",
+   "secondary": null,
+   "location": "Khalbui River",
+   "lat": null,
+   "lon": null,
+   "src": "unplaced",
+   "geonote": "Khalbui River — locality not reliably geocoded.",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1877",
+    "val"
+   ],
+   "date_found": [
+    "1877",
+    "val"
+   ],
+   "age": [
+    "Undated — still in research",
+    "q"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "full carcass was found, however only head, leg recovered",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": null,
+   "y": null
+  },
+  {
+   "id": 27,
+   "species": "Rhinoceros",
+   "color": "#7fd1e0",
+   "binomial": "Coelodonta antiquitatis",
+   "secondary": null,
+   "location": "Starunia",
+   "lat": 48.68342,
+   "lon": 24.49144,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "48°41'00.3\"N",
+   "lon_raw": "24°29'29.2\"E",
+   "date_coll": [
+    "1907",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "42, 150 +/- 340 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "\"frontal part,\" skin, flesh",
+    "val"
+   ],
+   "stored": [
+    "Lviv",
+    "val"
+   ],
+   "dispersal": [
+    "Samples taken to Polish Academy of Sciences, Warsaw 1907; Radiocarbon Laborartory, Silesian University of Technology; Oxford Radiocarbon Accelerator Unit",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 818.0,
+   "y": 312.7
+  },
+  {
+   "id": 44,
+   "species": "Rhinoceros",
+   "color": "#7fd1e0",
+   "binomial": "Coelodonta antiquitatis",
+   "secondary": "Second Starunia Rhinoceros",
+   "location": "Starunia ",
+   "lat": 48.68342,
+   "lon": 24.49144,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "48°41'00.3\"N",
+   "lon_raw": "24°29'29.2\"E",
+   "date_coll": [
+    "1929",
+    "val"
+   ],
+   "date_found": [
+    "1929",
+    "val"
+   ],
+   "age": [
+    "47, 000 +/- 3,000 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "skin, muscles, tongue, tendons, haior, trachea, palatine, hind limb, skeleton, soft tissues",
+    "val"
+   ],
+   "stored": [
+    "Krakow",
+    "val"
+   ],
+   "dispersal": [
+    "Smithsonian Radiation Biology Laboratory; Nidder-sachisches Landesamt fur Bodenfoschung, Hannover, Germany; Poznan Radio Carbon Laboratory; Krakow Radiocarbohn Laboratory",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 818.0,
+   "y": 312.7
+  },
+  {
+   "id": 45,
+   "species": "Rhinoceros",
+   "color": "#7fd1e0",
+   "binomial": "Coelodonta antiquitatis",
+   "secondary": null,
+   "location": "Starunia ",
+   "lat": 48.68342,
+   "lon": 24.49144,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "48°41'00.3\"N",
+   "lon_raw": "24°29'29.2\"E",
+   "date_coll": [
+    "1929",
+    "val"
+   ],
+   "date_found": [
+    "1929",
+    "val"
+   ],
+   "age": [
+    "41, 600 +/- 1, 400 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "bones, major part of skeketon",
+    "val"
+   ],
+   "stored": [
+    "Krakow",
+    "val"
+   ],
+   "dispersal": [
+    "Smithsonian Radiation Biology Laboratory; Nidder-sachisches Landesamt fur Bodenfoschung, Hannover, Germany; Poznan Radio Carbon Laboratory; Krako Radiocarbohn Laboratory",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 818.0,
+   "y": 312.7
+  },
+  {
+   "id": 46,
+   "species": "Rhinoceros",
+   "color": "#7fd1e0",
+   "binomial": "Coelodonta antiquitatis",
+   "secondary": null,
+   "location": "Starunia ",
+   "lat": 48.68342,
+   "lon": 24.49144,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "48°41'00.3\"N",
+   "lon_raw": "24°29'29.2\"E",
+   "date_coll": [
+    "1929",
+    "val"
+   ],
+   "date_found": [
+    "1929",
+    "val"
+   ],
+   "age": [
+    "10, 300 +/- 1, 200",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "bone, part of a shoulder-blade",
+    "val"
+   ],
+   "stored": [
+    "Krakow",
+    "val"
+   ],
+   "dispersal": [
+    " Poznan Radio Carbon Laboratory; Krako Radiocarbon Laboratory",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 818.0,
+   "y": 312.7
+  },
+  {
+   "id": 58,
+   "species": "Rhinoceros",
+   "color": "#7fd1e0",
+   "binomial": "Stephanorhinus kirchbergensis",
+   "secondary": null,
+   "location": "Yana River",
+   "lat": 70.71667,
+   "lon": 135.41667,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "70°43' N",
+   "lon_raw": "135° 25' E",
+   "date_coll": [
+    "1964",
+    "val"
+   ],
+   "date_found": [
+    "1964",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Lower jaw",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1261.7,
+   "y": 128.1
+  },
+  {
+   "id": 68,
+   "species": "Rhinoceros",
+   "color": "#7fd1e0",
+   "binomial": "Coelodonta antiquitatis",
+   "secondary": null,
+   "location": "Churapachi",
+   "lat": 62.61053,
+   "lon": 135.09881,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "62°36'37.9\"N",
+   "lon_raw": "135°05'55.7\"E",
+   "date_coll": [
+    "1972",
+    "val"
+   ],
+   "date_found": [
+    "1972",
+    "val"
+   ],
+   "age": [
+    "19 500 ± 120 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "horns, teeth, pelvis, lower legs, soft tissue, skeleton, fur, skin, stomach contents",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1260.4,
+   "y": 196.0
+  },
+  {
+   "id": 112,
+   "species": "Rhinoceros",
+   "color": "#7fd1e0",
+   "binomial": "Coelodonta antiquitatis",
+   "secondary": null,
+   "location": "Kolyma River (near Chersky)",
+   "lat": 68.72108,
+   "lon": 161.70464,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "68°43'15.9\"N",
+   "lon_raw": "161°42'16.7\"E",
+   "date_coll": [
+    "2007",
+    "val"
+   ],
+   "date_found": [
+    "2007",
+    "val"
+   ],
+   "age": [
+    "39,140 +/- 390 years BP",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "Left part of body w/ skin, fore and hind legs, skull, lower jaw, intestines, stomach, horns, bones, soft tissues",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1366.8,
+   "y": 144.8
+  }
+ ]
+}

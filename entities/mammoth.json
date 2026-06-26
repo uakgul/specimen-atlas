@@ -1,0 +1,4520 @@
+{
+ "species": "Mammoth",
+ "binomial": "Mammuthus primigenius",
+ "color": "#e8b04b",
+ "count": 94,
+ "recs": [
+  {
+   "id": 1,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Grenoble",
+   "lat": 45.17155,
+   "lon": 5.72239,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "45° 10' 17.5692\" N",
+   "lon_raw": "5° 43' 20.5932\"",
+   "date_coll": [
+    "1613",
+    "val"
+   ],
+   "date_found": [
+    "1613",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "skull, jaw, teeth, tibia, vertebrae, rib, ankel and foot, other unidentified bones",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Some of the bones sent to the Bishop of Grenoble for identification; Some sent to the University in Montpellier; Mazurier toured with the bones including to Paris, Fontainebleau Palace, northern France, England, Flanders, and Germany",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 742.9,
+   "y": 342.1
+  },
+  {
+   "id": 2,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Krems an der Donau",
+   "lat": 48.40999,
+   "lon": 15.60384,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "48.40999",
+   "lon_raw": "15.60384",
+   "date_coll": [
+    "1645",
+    "val"
+   ],
+   "date_found": [
+    "1645",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "skull, teeth, shoulder blade, limb bones",
+    "val"
+   ],
+   "stored": [
+    "Kremsmunster Abbey",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 782.4,
+   "y": 315.0
+  },
+  {
+   "id": 3,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Quedlinburg",
+   "lat": 51.79167,
+   "lon": 11.14722,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "51°47'30\"N",
+   "lon_raw": "11°8'50\"E",
+   "date_coll": [
+    "1663",
+    "val"
+   ],
+   "date_found": [
+    "1663",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "teeth, scapulae, vertebrae",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 764.6,
+   "y": 286.6
+  },
+  {
+   "id": 4,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Yenisei River ",
+   "lat": 60.66792,
+   "lon": 90.26122,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "60°40'04.5\"N",
+   "lon_raw": "90°15'40.4\"E",
+   "date_coll": [
+    "1693",
+    "val"
+   ],
+   "date_found": [
+    "1692",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Head and leg, incl. soft tissue, teeth",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Pieces taken by Ides to Turukhansk, possibly also to China, 1693",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1081.0,
+   "y": 212.3
+  },
+  {
+   "id": 5,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Indigirka River",
+   "lat": 65.0,
+   "lon": 150.0,
+   "src": "corrected",
+   "geonote": "Longitude direction corrected W→E — the Indigirka is in NE Siberia.",
+   "lat_raw": "65° N",
+   "lon_raw": "150° W",
+   "date_coll": [
+    "1723",
+    "val"
+   ],
+   "date_found": [
+    "1722",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Not recorded",
+    "na"
+   ],
+   "parts": [
+    "Teeth, bones",
+    "val"
+   ],
+   "stored": [
+    "London; ",
+    "val"
+   ],
+   "dispersal": [
+    "Molar tooth purchased at auction by Sloane, from Johan van Segvelt, Director of the Dutch West India Company; Segvelt obtained it from the cabinet of curiosities of Nicholaes Witsen; molar currently resides at the NHM in London",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1320.0,
+   "y": 176.0
+  },
+  {
+   "id": 7,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": "Sarychev Mammoth",
+   "location": "Alazeja River",
+   "lat": 68.0,
+   "lon": 154.5,
+   "src": "geocoded",
+   "geonote": "Alazeya River, lower course, NE Yakutia (approximate).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "Not recorded",
+    "na"
+   ],
+   "date_found": [
+    "1787",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "skeleton, skin, some hair",
+    "val"
+   ],
+   "stored": [
+    "Not_Collected",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1338.0,
+   "y": 150.8
+  },
+  {
+   "id": 8,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": "Lena Mammoth",
+   "location": "Lena River",
+   "lat": 72.98264,
+   "lon": 126.43333,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "N 72° 58' 57.5004\"",
+   "lon_raw": "E 126° 26' 19.302",
+   "date_coll": [
+    "1806",
+    "val"
+   ],
+   "date_found": [
+    "1799",
+    "val"
+   ],
+   "age": [
+    "34, 450-35,800 cal. BP.",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, skin",
+    "val"
+   ],
+   "stored": [
+    "St_Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "Piece of skin and hair (uncertain) to Stuttgart, 1816;",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1225.7,
+   "y": 109.1
+  },
+  {
+   "id": 9,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Polar Sea",
+   "lat": null,
+   "lon": null,
+   "src": "unplaced",
+   "geonote": "“Polar Sea” — location too general to map.",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1800",
+    "val"
+   ],
+   "date_found": [
+    "1800",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, skin",
+    "val"
+   ],
+   "stored": [
+    "Not_Collected",
+    "val"
+   ],
+   "dispersal": [
+    "Sample of fur given by Potapov to Tilesius en route to Kamchatka, 1805",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": null,
+   "y": null
+  },
+  {
+   "id": 10,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": "Mochulsky Mammoth, Rohzin Mammoth",
+   "location": "Yenisei River ",
+   "lat": 69.891,
+   "lon": 83.05972,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "69°53'27.6\"N",
+   "lon_raw": "83°03'35.0\"E",
+   "date_coll": [
+    "1839",
+    "val"
+   ],
+   "date_found": [
+    "1839",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, hair, bones, soft tissue, brain",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "Specimens first taken to Obdorsk, then to Moscow before going to St. Petersburg",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1052.2,
+   "y": 135.0
+  },
+  {
+   "id": 11,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Nizhnaya Taimyra River",
+   "lat": 76.08142,
+   "lon": 99.75217,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "76°04'53.1\"N",
+   "lon_raw": "99°45'07.8\"E",
+   "date_coll": [
+    "Not recorded",
+    "na"
+   ],
+   "date_found": [
+    "1843",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Skeleton only, bones, rotted, with an an organic materialin the soil that may have originated from the animal's soft tissue",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1119.0,
+   "y": 83.1
+  },
+  {
+   "id": 12,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Kotzebue Sound",
+   "lat": 66.5461,
+   "lon": -162.7494,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "66.5461° N",
+   "lon_raw": "162.7494° W",
+   "date_coll": [
+    "1848",
+    "val"
+   ],
+   "date_found": [
+    "1848",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Eight tusks, molars, thigh bones, ribs",
+    "val"
+   ],
+   "stored": [
+    "Cambridge",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 69.0,
+   "y": 163.0
+  },
+  {
+   "id": 13,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Elephant Point",
+   "lat": 66.25844,
+   "lon": 161.33672,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "66°15'30.4\"N",
+   "lon_raw": "161°20'12.2\"E",
+   "date_coll": [
+    "1849",
+    "val"
+   ],
+   "date_found": [
+    "1849",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "skull tusks and a quantity of hair and wool",
+    "val"
+   ],
+   "stored": [
+    "London",
+    "val"
+   ],
+   "dispersal": [
+    "Specimens taken to Haslar Hospital; tusks kept at Haslar Museum, in Porstmouth, UK. When Haslar Museum closed in 2007, most of its collection was acquired by the British Museum in London. ",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1365.3,
+   "y": 165.4
+  },
+  {
+   "id": 14,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Yukon",
+   "lat": 64.0,
+   "lon": -135.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "64° 0' 0.0000\" N",
+   "lon_raw": "135° 0' 0.0000\" W",
+   "date_coll": [
+    "1840-1852",
+    "val"
+   ],
+   "date_found": [
+    "1840-1852",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Tibia bone",
+    "val"
+   ],
+   "stored": [
+    "London",
+    "val"
+   ],
+   "dispersal": [
+    "Forwarded by the discoverer, Robert Campbell, to the British Museum in 1852",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 180.0,
+   "y": 184.3
+  },
+  {
+   "id": 15,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Kolyma River",
+   "lat": 64.0,
+   "lon": 160.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "64° N",
+   "lon_raw": "160° E",
+   "date_coll": [
+    "1854",
+    "val"
+   ],
+   "date_found": [
+    "1854",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "foot, \"covered with hair\"",
+    "val"
+   ],
+   "stored": [
+    "Irkutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Khitrovo, a missionary, first sent the foot the Archbishop Nil (probably Isakovich), who then donated it to the Museum of Geographical Society",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1360.0,
+   "y": 184.3
+  },
+  {
+   "id": 16,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Mostak  Island (Mouth of Lena River)",
+   "lat": 71.58333,
+   "lon": 129.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71°35' N",
+   "lon_raw": "129°59 E",
+   "date_coll": [
+    "1882-1884",
+    "val"
+   ],
+   "date_found": [
+    "1857",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Bone, hair, excrement, soft tissue",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Samples studied by Famintsyn, St. Petersburg, mid-to-late 1880s",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1236.0,
+   "y": 120.8
+  },
+  {
+   "id": 18,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Gida River",
+   "lat": 70.87439,
+   "lon": 78.47472,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "70°52'27.8\"N",
+   "lon_raw": "78°28'29.0\"E",
+   "date_coll": [
+    "1866",
+    "val"
+   ],
+   "date_found": [
+    "1864",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "head, tusk, skin, hair",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "The head, along with the tusks and some of the skin and hair, was first found by a Yurak who brought it to Dudinka; Schmidt attempted to find the rest of the mammoth but could find only scraps, which he brought to St. Petersburg",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1033.9,
+   "y": 126.7
+  },
+  {
+   "id": 19,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Vilui  River ",
+   "lat": 60.0,
+   "lon": 120.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "60° N",
+   "lon_raw": "120° E",
+   "date_coll": [
+    "Not recorded",
+    "na"
+   ],
+   "date_found": [
+    "1866",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "remnants, \"covered with skin\"",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "The specimen was sited by a Yakutsk trader, but the RGS made no effort to retrieve it",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1200.0,
+   "y": 217.9
+  },
+  {
+   "id": 23,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Naknek River",
+   "lat": 58.71869,
+   "lon": -156.85358,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "58°43'07.3\"N",
+   "lon_raw": "156°51'12.9\"W",
+   "date_coll": [
+    "1894",
+    "val"
+   ],
+   "date_found": [
+    "1895",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "bones, fat, disintegrated muslce tiusse",
+    "val"
+   ],
+   "stored": [
+    "Washington",
+    "val"
+   ],
+   "dispersal": [
+    "\"A specimen of the 'hard tallow\" containing \"numerous dired muscular fibres\" is preserved at the US National Museum\" ie the Smithsonian; the local \"Eskimos\" were also reportedly using the mammoth fat to grease their boats (according to Dall); ",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 92.6,
+   "y": 228.6
+  },
+  {
+   "id": 24,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Berezovka River",
+   "lat": 64.16667,
+   "lon": 155.5,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "64° 10' N",
+   "lon_raw": "155° 30'E",
+   "date_coll": [
+    "1902",
+    "val"
+   ],
+   "date_found": [
+    "1900",
+    "val"
+   ],
+   "age": [
+    "44, 000+/-3500 BP.",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, soft tissue, **no head",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "Left hind leg muscle tissue to Smithsonian, 1922",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1342.0,
+   "y": 182.9
+  },
+  {
+   "id": 25,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Quartz Creek",
+   "lat": 60.98764,
+   "lon": -130.48653,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "60°59'15.5\"N",
+   "lon_raw": "130°29'11.5\"W",
+   "date_coll": [
+    "1905",
+    "val"
+   ],
+   "date_found": [
+    "1904",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Skull and tusks",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 198.1,
+   "y": 209.6
+  },
+  {
+   "id": 26,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Eterikan Creek",
+   "lat": 73.60458,
+   "lon": 140.81936,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "73°36'16.5\"N",
+   "lon_raw": "140°49'09.7\"E",
+   "date_coll": [
+    "1912",
+    "val"
+   ],
+   "date_found": [
+    "1906",
+    "val"
+   ],
+   "age": [
+    "Undated — still in research",
+    "q"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, fur, soft tissue, trunk, skin, ears, lips, penis, organs, hoofs, ",
+    "val"
+   ],
+   "stored": [
+    "Paris",
+    "val"
+   ],
+   "dispersal": [
+    "Samples of hide and hair sent to Paris, 1910; skull, left tusk, upper lip, left eye, left ear, skin from the hip, tail, penis, meat, all four feet, hair sent to St. Petersburg, 1910.",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1283.3,
+   "y": 103.9
+  },
+  {
+   "id": 28,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Starunia",
+   "lat": 48.68342,
+   "lon": 24.49144,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "48°41'00.3\"N",
+   "lon_raw": "24°29'29.2\"E",
+   "date_coll": [
+    "1907",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "45,000 +/- 2,000 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "parts of skeleton, skin, muscle",
+    "val"
+   ],
+   "stored": [
+    "Lviv",
+    "val"
+   ],
+   "dispersal": [
+    "Radiocarbon Laboratory, Silesian University of Technology; Poland Geological Institute; Russian Academy of Sciences; Poznan Radiocarbon laboratory; Foundation of the Adam Mickiewicz University, Poland",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 818.0,
+   "y": 312.7
+  },
+  {
+   "id": 29,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Palisades Yukon River",
+   "lat": 65.0,
+   "lon": -155.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "65°N",
+   "lon_raw": "155° W",
+   "date_coll": [
+    "1907",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "\"fragmentary bones\"",
+    "val"
+   ],
+   "stored": [
+    "New York",
+    "val"
+   ],
+   "dispersal": [
+    "Quackenbush reports that some of the bones had already been accumulated by a collector",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 100.0,
+   "y": 176.0
+  },
+  {
+   "id": 30,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Fox Gulch",
+   "lat": 63.95222,
+   "lon": -139.34944,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "63°57'08\" N",
+   "lon_raw": "139°20'58\" W",
+   "date_coll": [
+    "1907",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "skull, two molars, imperfect tusks",
+    "val"
+   ],
+   "stored": [
+    "New York",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 162.6,
+   "y": 184.7
+  },
+  {
+   "id": 31,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Goose Bay",
+   "lat": 66.3,
+   "lon": -158.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "66°18\" N",
+   "lon_raw": "158° W",
+   "date_coll": [
+    "1907",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Tibia",
+    "val"
+   ],
+   "stored": [
+    "New York",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 88.0,
+   "y": 165.1
+  },
+  {
+   "id": 32,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Ah-Weeng-Nuk River",
+   "lat": 66.3,
+   "lon": -161.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "66°18\" N",
+   "lon_raw": "161° W",
+   "date_coll": [
+    "1907",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Phalanx, limb bones",
+    "val"
+   ],
+   "stored": [
+    "New York",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 76.0,
+   "y": 165.1
+  },
+  {
+   "id": 33,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Buckland River",
+   "lat": 66.0,
+   "lon": -160.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "66° N",
+   "lon_raw": "160° W",
+   "date_coll": [
+    "1907",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "\"bones\"",
+    "val"
+   ],
+   "stored": [
+    "New York",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 80.0,
+   "y": 167.6
+  },
+  {
+   "id": 34,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Eschscholtz Bay",
+   "lat": 66.30483,
+   "lon": -161.317,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "66°18'17.40\" N",
+   "lon_raw": "161°19'1.20\" W",
+   "date_coll": [
+    "1908",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "scapula",
+    "val"
+   ],
+   "stored": [
+    "New York",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 74.7,
+   "y": 165.0
+  },
+  {
+   "id": 35,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Keewalik Lagoon",
+   "lat": 66.0,
+   "lon": -162.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "66° N",
+   "lon_raw": "162° W",
+   "date_coll": [
+    "1908",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "lower jaw",
+    "val"
+   ],
+   "stored": [
+    "New York",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 72.0,
+   "y": 167.6
+  },
+  {
+   "id": 36,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Eschscholtz Bay",
+   "lat": 66.36667,
+   "lon": -161.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "66° 22\" N",
+   "lon_raw": "161° W",
+   "date_coll": [
+    "1908",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "right innominate bone, femur, tibia and fibula, four of the small foot bones, lower jaw ith teeth, two tusks, fragments of skull, six thoracic vertebrae, several caudal vertebrae, end of the tail with skin and hair, hair, skin, soft tissue",
+    "val"
+   ],
+   "stored": [
+    "New York",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 76.0,
+   "y": 164.5
+  },
+  {
+   "id": 37,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Sanga Yurakh River",
+   "lat": 72.21536,
+   "lon": 142.79047,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "72°12'55.3\"N",
+   "lon_raw": "142°47'25.7\"E",
+   "date_coll": [
+    "1908",
+    "val"
+   ],
+   "date_found": [
+    "1907",
+    "val"
+   ],
+   "age": [
+    "Undated — still in research",
+    "q"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "trunk, hair, legs, teeth, ",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "Samples of fur sent to the British Museum at some point between 1908-1926 **Follow up on Digby_1926",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1291.2,
+   "y": 115.5
+  },
+  {
+   "id": 38,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Mokhovaya River",
+   "lat": 61.80781,
+   "lon": 73.53719,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "61°48'28.1\"N",
+   "lon_raw": "73°32'13.9\"E",
+   "date_coll": [
+    "1908-1913",
+    "val"
+   ],
+   "date_found": [
+    "1908",
+    "val"
+   ],
+   "age": [
+    "35, 800 +/- 2700 BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, fur, soft tissue",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "Yenisei museum sent samples of fur and tissues, 1908",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1014.1,
+   "y": 202.7
+  },
+  {
+   "id": 39,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Golchikha",
+   "lat": 71.65597,
+   "lon": 84.16758,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71°39'21.5\"N",
+   "lon_raw": "84°10'03.3\"E",
+   "date_coll": [
+    "Not recorded",
+    "na"
+   ],
+   "date_found": [
+    "1909",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "skeleton, soft tissue",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Carcass looted by wild animals and \"natives\" before  collection could take place",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1056.7,
+   "y": 120.2
+  },
+  {
+   "id": 40,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Haffner Fiord",
+   "lat": 76.5,
+   "lon": 116.25,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "76° 30' N",
+   "lon_raw": "116° 15' E",
+   "date_coll": [
+    "Not recorded",
+    "na"
+   ],
+   "date_found": [
+    "1915",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "tusks, skeleton, soft tissue",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "No attempt was made to collec this specimen",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1185.0,
+   "y": 79.6
+  },
+  {
+   "id": 41,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Melville Island",
+   "lat": 75.7,
+   "lon": 114.42,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "75.70° N",
+   "lon_raw": "114.42° E",
+   "date_coll": [
+    "1916",
+    "val"
+   ],
+   "date_found": [
+    "1916",
+    "val"
+   ],
+   "age": [
+    "21 000  ± 320 BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Tusk Fragment",
+    "val"
+   ],
+   "stored": [
+    "Ottawa",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1177.7,
+   "y": 86.3
+  },
+  {
+   "id": 42,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Siberia",
+   "lat": 60.0,
+   "lon": 105.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "60 ° N",
+   "lon_raw": "105 ° E",
+   "date_coll": [
+    "1923",
+    "val"
+   ],
+   "date_found": [
+    "1923",
+    "val"
+   ],
+   "age": [
+    "Undated — still in research",
+    "q"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Skull with tusks, ligaments",
+    "val"
+   ],
+   "stored": [
+    "London",
+    "val"
+   ],
+   "dispersal": [
+    "The skull was sold to the British Museum by Siberian ivory traders in 1923; there doesn't seem to be a record of whether or not this was the whole or only a part of the find.",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1140.0,
+   "y": 217.9
+  },
+  {
+   "id": 43,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Kara River",
+   "lat": 53.0,
+   "lon": 115.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "53° N",
+   "lon_raw": "115° E",
+   "date_coll": [
+    "1926",
+    "val"
+   ],
+   "date_found": [
+    "1922",
+    "val"
+   ],
+   "age": [
+    "Undated — still in research",
+    "q"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Skull with tusks fragments",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1180.0,
+   "y": 276.5
+  },
+  {
+   "id": 49,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Kenosha County",
+   "lat": 42.50861,
+   "lon": -88.02833,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "42°30'31\"N",
+   "lon_raw": "88°1'42\"W",
+   "date_coll": [
+    "1936; 2004-2005",
+    "val"
+   ],
+   "date_found": [
+    "1936",
+    "val"
+   ],
+   "age": [
+    "13, 350 ±  50 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "lower left leg bone",
+    "val"
+   ],
+   "stored": [
+    "Kenosha",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 367.9,
+   "y": 364.4
+  },
+  {
+   "id": 50,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Fairbanks Creek",
+   "lat": 65.05231,
+   "lon": -147.14581,
+   "src": "approx",
+   "geonote": null,
+   "lat_raw": "65°03'08.3\"N  *approximate",
+   "lon_raw": "147°08'44.9\"W",
+   "date_coll": [
+    "1940",
+    "val"
+   ],
+   "date_found": [
+    "1940",
+    "val"
+   ],
+   "age": [
+    "17,550 +/- 80 BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Foot",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 131.4,
+   "y": 175.5
+  },
+  {
+   "id": 52,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Fairbanks Creek",
+   "lat": 65.06892,
+   "lon": -147.25703,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "65°04'08.1\"N",
+   "lon_raw": "147°15'25.3\"W",
+   "date_coll": [
+    "1948",
+    "val"
+   ],
+   "date_found": [
+    "1948",
+    "val"
+   ],
+   "age": [
+    "24,140 +/- 1200 BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Head, trunk, foot",
+    "val"
+   ],
+   "stored": [
+    "New York City",
+    "val"
+   ],
+   "dispersal": [
+    "Specimen sent to Museum of Natural History; Cast was made and is on display at Gallery of Alaska, Fairbanks ",
+    "val"
+   ],
+   "catalog": [
+    "UAM:Mamm:54443",
+    "val"
+   ],
+   "x": 131.0,
+   "y": 175.4
+  },
+  {
+   "id": 53,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Mammoth River",
+   "lat": 75.23333,
+   "lon": 94.76667,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "75° 14' N",
+   "lon_raw": "94° 46' E",
+   "date_coll": [
+    "1949",
+    "val"
+   ],
+   "date_found": [
+    "1948",
+    "val"
+   ],
+   "age": [
+    "11, 450 +/-250 BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Head, tusks, flesh, wool, vertebrae, ribs, skin, right forearm bones",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "Specimen(s) stored in Dikson, 1949;",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1099.1,
+   "y": 90.2
+  },
+  {
+   "id": 54,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Dome)Creek",
+   "lat": 65.03236,
+   "lon": -147.62795,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "65.032356°N",
+   "lon_raw": "147.627949° W",
+   "date_coll": [
+    "1952",
+    "val"
+   ],
+   "date_found": [
+    "1951",
+    "val"
+   ],
+   "age": [
+    "32,700 ± 980 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "skull, tusks, parts of skeleton, hair",
+    "val"
+   ],
+   "stored": [
+    "Fairbanks; Washington",
+    "val"
+   ],
+   "dispersal": [
+    "Hair sent to researchers at CSIRO in Canberra, Australia, 1970; hair also sent to Gifu University, Japan, 1971; skeleton",
+    "val"
+   ],
+   "catalog": [
+    "UAM:ES:3743; CAS MAM 15652; USNM V 23792",
+    "val"
+   ],
+   "x": 129.5,
+   "y": 175.7
+  },
+  {
+   "id": 57,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Cape Thompson",
+   "lat": 68.0,
+   "lon": -165.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "68° 08.7N",
+   "lon_raw": "165°58.7W",
+   "date_coll": [
+    "1959",
+    "val"
+   ],
+   "date_found": [
+    "1959",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "femur-humerus, tibia, small pieces of skull, pelvis, scapula, ribs",
+    "val"
+   ],
+   "stored": [
+    "Fairbanks",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "UAM:ES:34643",
+    "val"
+   ],
+   "x": 60.0,
+   "y": 150.8
+  },
+  {
+   "id": 59,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus columbi",
+   "secondary": null,
+   "location": "Kyle",
+   "lat": 50.85,
+   "lon": -108.11667,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "50°51'°N",
+   "lon_raw": "108°07'W",
+   "date_coll": [
+    "1964",
+    "val"
+   ],
+   "date_found": [
+    "1964",
+    "val"
+   ],
+   "age": [
+    "12,200 ± 200 BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "bone fragments, vertebrae, ribs, molar, femur, jaw, scapula",
+    "val"
+   ],
+   "stored": [
+    "Regina",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 287.5,
+   "y": 294.5
+  },
+  {
+   "id": 60,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Kenosha County",
+   "lat": 42.0,
+   "lon": -87.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "42° 38.456 N",
+   "lon_raw": "87° 59.864 W",
+   "date_coll": [
+    "1964; 1992-1993",
+    "val"
+   ],
+   "date_found": [
+    "1964",
+    "val"
+   ],
+   "age": [
+    "10,960 ± 100 yr B.P",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "75% of adult male mammoth skeleton; trunk",
+    "val"
+   ],
+   "stored": [
+    "Kenosha",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 372.0,
+   "y": 368.7
+  },
+  {
+   "id": 61,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Yukon",
+   "lat": 64.0,
+   "lon": -135.0,
+   "src": "sibling",
+   "geonote": "Borrowed from another Yukon specimen (id 14).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1965",
+    "val"
+   ],
+   "date_found": [
+    "1965",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Not recorded",
+    "na"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 180.0,
+   "y": 184.3
+  },
+  {
+   "id": 62,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": "Whitestone Mammoth",
+   "location": "Whitestone River",
+   "lat": 66.07417,
+   "lon": -137.94461,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "66°04'27.0\"N",
+   "lon_raw": "137°56'40.6\"W",
+   "date_coll": [
+    "1967",
+    "val"
+   ],
+   "date_found": [
+    "1967",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "jaw, teeth, cranium, broken right tusk, lower jaw, forelimbs, vertebrae, ribs, pelvis",
+    "val"
+   ],
+   "stored": [
+    "Ottawa",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 168.2,
+   "y": 167.0
+  },
+  {
+   "id": 65,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Herschel Island",
+   "lat": 69.57,
+   "lon": -139.08,
+   "src": "geocoded",
+   "geonote": "Herschel Island (Qikiqtaruk), Yukon coast.",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1970",
+    "val"
+   ],
+   "date_found": [
+    "1970",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Tusk lacking tip",
+    "val"
+   ],
+   "stored": [
+    "Ottawa",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 163.7,
+   "y": 137.7
+  },
+  {
+   "id": 66,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Berelekh River",
+   "lat": 71.0,
+   "lon": 145.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71° N",
+   "lon_raw": "145° E",
+   "date_coll": [
+    "1970-1977",
+    "val"
+   ],
+   "date_found": [
+    "1970",
+    "val"
+   ],
+   "age": [
+    "14 000 - 12 000 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "frozen legs, skin, fur, nails, bones fur, skin, ligaments",
+    "val"
+   ],
+   "stored": [
+    "Moscow",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1300.0,
+   "y": 125.7
+  },
+  {
+   "id": 67,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus columbi",
+   "secondary": null,
+   "location": "Babine Lake",
+   "lat": 55.0,
+   "lon": -126.23333,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "55°00' N",
+   "lon_raw": "126°14' W",
+   "date_coll": [
+    "1971",
+    "val"
+   ],
+   "date_found": [
+    "1971",
+    "val"
+   ],
+   "age": [
+    "34 000 ± 690 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "skull, mandible, vertebrae, ribs, scapula, forelimbs, parts of hindlimbs, fragments of tusk",
+    "val"
+   ],
+   "stored": [
+    "Ottawa",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 215.1,
+   "y": 259.8
+  },
+  {
+   "id": 69,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Shandrin River",
+   "lat": 70.5,
+   "lon": 151.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "70°30' N",
+   "lon_raw": "151° E",
+   "date_coll": [
+    "1972",
+    "val"
+   ],
+   "date_found": [
+    "1972",
+    "val"
+   ],
+   "age": [
+    "40 350 ± 880 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "skeleton, skull, tusks, internal organs, gastroeintestinal tract",
+    "val"
+   ],
+   "stored": [
+    "Novosibirsk",
+    "val"
+   ],
+   "dispersal": [
+    "Skeleton taken to Yakutsk, 1972; skeleton and gastrointestinal tract material transported to Novosibirsk, 1974",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1324.0,
+   "y": 129.9
+  },
+  {
+   "id": 70,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Padul Peat Bog",
+   "lat": 37.01694,
+   "lon": -3.60194,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "37°01' 01\"N",
+   "lon_raw": "03°36'07\"W",
+   "date_coll": [
+    "1982-1983",
+    "val"
+   ],
+   "date_found": [
+    "1973",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "mandible",
+    "val"
+   ],
+   "stored": [
+    "Grenada",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 705.6,
+   "y": 410.4
+  },
+  {
+   "id": 71,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Padul Peat Bog",
+   "lat": 37.01694,
+   "lon": -3.60194,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "37°01' 01\"N",
+   "lon_raw": "03°36'07\"W",
+   "date_coll": [
+    "1982-1983",
+    "val"
+   ],
+   "date_found": [
+    "1973",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "mandible",
+    "val"
+   ],
+   "stored": [
+    "Grenada",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 705.6,
+   "y": 410.4
+  },
+  {
+   "id": 72,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Padul Peat Bog",
+   "lat": 37.01694,
+   "lon": -3.60194,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "37°01' 01\"N",
+   "lon_raw": "03°36'07\"W",
+   "date_coll": [
+    "1982-1983",
+    "val"
+   ],
+   "date_found": [
+    "1973",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "hemimandible with dentition",
+    "val"
+   ],
+   "stored": [
+    "Grenada",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 705.6,
+   "y": 410.4
+  },
+  {
+   "id": 73,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Padul Peat Bog",
+   "lat": 37.01694,
+   "lon": -3.60194,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "37°01' 01\"N",
+   "lon_raw": "03°36'07\"W",
+   "date_coll": [
+    "1982-1983",
+    "val"
+   ],
+   "date_found": [
+    "1973",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    " complete tusk plus a tusk fragment, incomplete femur, metacrapals, sesamoids, ",
+    "val"
+   ],
+   "stored": [
+    "Grenada",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 705.6,
+   "y": 410.4
+  },
+  {
+   "id": 76,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus columbi",
+   "secondary": null,
+   "location": "Quartz Creek",
+   "lat": 67.56667,
+   "lon": -139.8,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "67° 34' N",
+   "lon_raw": "139° 48' W",
+   "date_coll": [
+    "1975",
+    "val"
+   ],
+   "date_found": [
+    "1975",
+    "val"
+   ],
+   "age": [
+    "29, 190 ± 400 BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Left mandible",
+    "val"
+   ],
+   "stored": [
+    "Ottawa",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 160.8,
+   "y": 154.5
+  },
+  {
+   "id": 77,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Ballast Brook",
+   "lat": 74.3,
+   "lon": -123.08,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "74.30°N",
+   "lon_raw": "123.08°W",
+   "date_coll": [
+    "1976",
+    "val"
+   ],
+   "date_found": [
+    "1976",
+    "val"
+   ],
+   "age": [
+    "20 700  ± 270 BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "left tibia shaft fragment",
+    "val"
+   ],
+   "stored": [
+    "Ottawa",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 227.7,
+   "y": 98.0
+  },
+  {
+   "id": 78,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Old Crow River",
+   "lat": 67.56667,
+   "lon": -139.8,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "67° 34' N",
+   "lon_raw": "139° 48' W",
+   "date_coll": [
+    "1977",
+    "val"
+   ],
+   "date_found": [
+    "1977",
+    "val"
+   ],
+   "age": [
+    "29 300 ± 1200 BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "bone fragment, broken by human interaction, incl. collagen",
+    "val"
+   ],
+   "stored": [
+    "Ottawa",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 160.8,
+   "y": 154.5
+  },
+  {
+   "id": 79,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Bolshaya Lesnaya Rassokha River",
+   "lat": 73.61719,
+   "lon": 106.82911,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "73°37'01.9\"N",
+   "lon_raw": "106°49'44.8\"E",
+   "date_coll": [
+    "1977-1978",
+    "val"
+   ],
+   "date_found": [
+    "1977",
+    "val"
+   ],
+   "age": [
+    "older than 53, 170",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Head, skin, ear, trunk, foreleg, foot, nails, bones",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1147.3,
+   "y": 103.8
+  },
+  {
+   "id": 80,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": "Magadan baby Mammoth; Kirgilyakh Mammoth",
+   "location": "Kirgilyakh Creek",
+   "lat": 62.79497,
+   "lon": 148.14228,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "62°47'41.9\"N",
+   "lon_raw": "148°08'32.2\"E",
+   "date_coll": [
+    "1978",
+    "val"
+   ],
+   "date_found": [
+    "1977",
+    "val"
+   ],
+   "age": [
+    "40 000",
+    "val"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "Soft tissue, skeleton, skin, hair",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "muscle tissue sent to UC Berkley, 1978; psoas tissue sent to Detroit 1978; ",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1312.6,
+   "y": 194.4
+  },
+  {
+   "id": 81,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Yuribei River",
+   "lat": 70.3,
+   "lon": 76.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "70°18' N",
+   "lon_raw": "76°00' E",
+   "date_coll": [
+    "1979",
+    "val"
+   ],
+   "date_found": [
+    "Not recorded",
+    "na"
+   ],
+   "age": [
+    "10 000 ± 70 years BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Soft tissue, skeleton, skin, hair",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "hair sample sent to U of Illinois, 1991",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1024.0,
+   "y": 131.6
+  },
+  {
+   "id": 82,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Kenosha County",
+   "lat": 42.0,
+   "lon": -87.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "42° 38.456 N",
+   "lon_raw": "87° 59.864 W",
+   "date_coll": [
+    "1994",
+    "val"
+   ],
+   "date_found": [
+    "1979",
+    "val"
+   ],
+   "age": [
+    "12,480-12,520 YBP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Skelton, 85%-90% complete",
+    "val"
+   ],
+   "stored": [
+    "Milwaukee",
+    "val"
+   ],
+   "dispersal": [
+    "Femur bone kept in John Hebior's basement from 1979-1994; skeleton kept in Kenosha 1994-2007; aquired by Milwaukee Public Museum 2007; displayed in New York 2010",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 372.0,
+   "y": 368.7
+  },
+  {
+   "id": 83,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Kular Gold Mine",
+   "lat": 70.63,
+   "lon": 134.55,
+   "src": "geocoded",
+   "geonote": "Kular locality / gold field, Sakha (Yakutia).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "Not recorded",
+    "na"
+   ],
+   "date_found": [
+    "1979",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Not recorded",
+    "na"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1258.2,
+   "y": 128.8
+  },
+  {
+   "id": 86,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Colorado Creek",
+   "lat": 63.64167,
+   "lon": -156.01972,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "63°38'30\"N",
+   "lon_raw": "156°01'11\"W",
+   "date_coll": [
+    "1983",
+    "val"
+   ],
+   "date_found": [
+    "1982",
+    "val"
+   ],
+   "age": [
+    "16, 150 +/- 230 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Skull, partial skeleton, vertebra, hair",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "radiocarbon dated in Arizona",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 95.9,
+   "y": 187.3
+  },
+  {
+   "id": 87,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus columbi",
+   "secondary": null,
+   "location": "Bechan Cave",
+   "lat": 37.37588,
+   "lon": -110.8761,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "37°22'33.16\"N",
+   "lon_raw": "110°52'33.96\"W",
+   "date_coll": [
+    "1983",
+    "val"
+   ],
+   "date_found": [
+    "1982",
+    "val"
+   ],
+   "age": [
+    "11 000 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "dung, hair, boli",
+    "val"
+   ],
+   "stored": [
+    "Pittsburg",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 276.5,
+   "y": 407.4
+  },
+  {
+   "id": 89,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": "Adult Condover Mammoth",
+   "location": "Norton Farm Pit",
+   "lat": 52.6375,
+   "lon": -2.76278,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "52° 38' 15\" N",
+   "lon_raw": "2° 45' 46 \" W",
+   "date_coll": [
+    "1987-1988",
+    "val"
+   ],
+   "date_found": [
+    "1986",
+    "val"
+   ],
+   "age": [
+    "12, 500 BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "almost complete skeleton, teeth, tusks",
+    "val"
+   ],
+   "stored": [
+    "Shropshire",
+    "val"
+   ],
+   "dispersal": [
+    "Specimens tested in San Francisco",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 708.9,
+   "y": 279.6
+  },
+  {
+   "id": 90,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Norton Farm Pit",
+   "lat": 52.6375,
+   "lon": -2.76278,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "52° 38' 15\" N",
+   "lon_raw": "2° 45' 46 \" W",
+   "date_coll": [
+    "1987-1988",
+    "val"
+   ],
+   "date_found": [
+    "1986",
+    "val"
+   ],
+   "age": [
+    "12, 500 BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Some bones, teeth, tusks",
+    "val"
+   ],
+   "stored": [
+    "Shropshire",
+    "val"
+   ],
+   "dispersal": [
+    "Specimens tested in San Francisco",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 708.9,
+   "y": 279.6
+  },
+  {
+   "id": 92,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": "Masha",
+   "location": "Yamal",
+   "lat": 70.0,
+   "lon": 70.0,
+   "src": "geocoded",
+   "geonote": "Yamal Peninsula — regional centroid (approximate).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1988",
+    "val"
+   ],
+   "date_found": [
+    "1988",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, soft tissue, skin, hair - missing trunk and tail",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "Stored first at Salekhard, 1988; Displayed in Manchester on loan, 2014",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1000.0,
+   "y": 134.1
+  },
+  {
+   "id": 93,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Sevsk",
+   "lat": 52.15,
+   "lon": 34.58,
+   "src": "geocoded",
+   "geonote": "Sevsk, Bryansk Oblast (longitude from sheet; latitude geocoded).",
+   "lat_raw": null,
+   "lon_raw": "34°34'51.3\"E",
+   "date_coll": [
+    "1988",
+    "val"
+   ],
+   "date_found": [
+    "1988",
+    "val"
+   ],
+   "age": [
+    "14, 000 BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Bones belonging to at least 33 individuals; at least five sekeltons of baby mammoths; two mostly complete and some partially preservered; 16 partial skulls and 6 complete skulls",
+    "val"
+   ],
+   "stored": [
+    "Moscow",
+    "val"
+   ],
+   "dispersal": [
+    "\"Exhibited in various European countries in the 1990s\" ",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 858.3,
+   "y": 283.6
+  },
+  {
+   "id": 94,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Vetluga River",
+   "lat": 58.65,
+   "lon": 47.4,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "58° 39' N",
+   "lon_raw": "47° 24' E",
+   "date_coll": [
+    "1989",
+    "val"
+   ],
+   "date_found": [
+    "1989",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Skull, mandible, teeth, tusk, vertebrae, sacrum, ribs, scapula, humerus, ulna, pisiform, capitate, hamatum, metacarpals, pelvis, femur, ",
+    "val"
+   ],
+   "stored": [
+    "Kriov",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 909.6,
+   "y": 229.2
+  },
+  {
+   "id": 95,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Wrangel Island",
+   "lat": 71.23361,
+   "lon": -179.76311,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71°14'01.0\" N",
+   "lon_raw": "179° 45' 47.2\" W",
+   "date_coll": [
+    "1990",
+    "val"
+   ],
+   "date_found": [
+    "1990",
+    "val"
+   ],
+   "age": [
+    "6260 ±  50 - 7295  ±  95 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "bones; mandible humerus tusk",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "radiocarbon dated in Uppsala and Arizona",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 0.9,
+   "y": 123.7
+  },
+  {
+   "id": 96,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Villenueve",
+   "lat": 53.658,
+   "lon": -113.8119,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "53.6580° N",
+   "lon_raw": "113.8119° W",
+   "date_coll": [
+    "1990",
+    "val"
+   ],
+   "date_found": [
+    "1990",
+    "val"
+   ],
+   "age": [
+    "27730 ± 1060 yBP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "A pair of fused teeth",
+    "val"
+   ],
+   "stored": [
+    "Edmonton",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 264.8,
+   "y": 271.0
+  },
+  {
+   "id": 97,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Indigirka River",
+   "lat": 64.66667,
+   "lon": 147.75,
+   "src": "sibling",
+   "geonote": "Borrowed from another Indigirka River specimen (id 64).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1991",
+    "val"
+   ],
+   "date_found": [
+    "1990",
+    "val"
+   ],
+   "age": [
+    "29, 500 +/-1000 yBP ",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Head with milk dentition, milk tusks, trunk, ears, left front leg with skin and wool, parts of other limbs, ribs and parts of unfused vertebrae",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1311.0,
+   "y": 178.8
+  },
+  {
+   "id": 98,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Upper Taimyra River",
+   "lat": 74.13472,
+   "lon": 99.63333,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "74°08'5\"N",
+   "lon_raw": "99°38'0\"E",
+   "date_coll": [
+    "1990-1992; 2000; 2001",
+    "val"
+   ],
+   "date_found": [
+    "1990",
+    "val"
+   ],
+   "age": [
+    "20, 620 +/-70 yr. BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Both tusks, skull, vertebrae, ribs, part of scapula, hair, skin, muscle, ulna, humerous, femur, cranium, hind parts, soft tissue, organs",
+    "val"
+   ],
+   "stored": [
+    "Khatanga",
+    "val"
+   ],
+   "dispersal": [
+    "Tusks sold to someone in Krasnoyarsk, 1990;",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1118.5,
+   "y": 99.4
+  },
+  {
+   "id": 99,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Kozlovo Village",
+   "lat": 59.13333,
+   "lon": 54.8,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "59°08' N",
+   "lon_raw": "54° 48'E",
+   "date_coll": [
+    "1992",
+    "val"
+   ],
+   "date_found": [
+    "1992",
+    "val"
+   ],
+   "age": [
+    "Undated — still in research",
+    "q"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Unknown",
+    "q"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 939.2,
+   "y": 225.1
+  },
+  {
+   "id": 100,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Maksunuokha River",
+   "lat": 71.58236,
+   "lon": 141.61764,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71° 34' 56.5\" N",
+   "lon_raw": "141° 37' 03.5\" E",
+   "date_coll": [
+    "1997",
+    "val"
+   ],
+   "date_found": [
+    "1995",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Not recorded",
+    "na"
+   ],
+   "parts": [
+    "Front leg, skin, fur, ligaments, shoulder",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1286.5,
+   "y": 120.8
+  },
+  {
+   "id": 101,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Bolshaya Balakhnya River",
+   "lat": 73.53333,
+   "lon": 105.81667,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "73°32'N",
+   "lon_raw": "105°49'E",
+   "date_coll": [
+    "1998-1999",
+    "val"
+   ],
+   "date_found": [
+    "1997",
+    "val"
+   ],
+   "age": [
+    "19, 910 +/-130 yr. BP",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "Both tusks, complete skeleton, soft tissue, teeth, wool, fur",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Radiometrically dated  at Utrecht, 1998; ",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1143.3,
+   "y": 104.5
+  },
+  {
+   "id": 102,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Novaya River",
+   "lat": 72.35036,
+   "lon": 103.01747,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "72°21'01.3\"N",
+   "lon_raw": "103°01'02.9\"E",
+   "date_coll": [
+    "1999",
+    "val"
+   ],
+   "date_found": [
+    "1999",
+    "val"
+   ],
+   "age": [
+    "32, 579 +/-280 BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Tusks, cranium, molar, vertebral column",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1132.1,
+   "y": 114.4
+  },
+  {
+   "id": 104,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Eterikan River",
+   "lat": 73.60458,
+   "lon": 140.81936,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "73°36'16.5\"N",
+   "lon_raw": "140°49'09.7\"E",
+   "date_coll": [
+    "2002",
+    "val"
+   ],
+   "date_found": [
+    "2002",
+    "val"
+   ],
+   "age": [
+    "24 700 ± 170 yBP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Incomplete skull with tusks, cheek teeth, mandible",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1283.3,
+   "y": 103.9
+  },
+  {
+   "id": 105,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Taimyr Lake",
+   "lat": 74.65419,
+   "lon": 100.51008,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "74°39'15.1\"N",
+   "lon_raw": "100°30'36.3\"E",
+   "date_coll": [
+    "2002",
+    "val"
+   ],
+   "date_found": [
+    "2002",
+    "val"
+   ],
+   "age": [
+    "Undated — still in research",
+    "q"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, tuks, teeth",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1122.0,
+   "y": 95.1
+  },
+  {
+   "id": 106,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": "Yaptunay’s mammoth",
+   "location": "Gyadan Peninsula",
+   "lat": 72.16667,
+   "lon": 79.58333,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "72 ° 10' N",
+   "lon_raw": "79°35' E",
+   "date_coll": [
+    "2002",
+    "val"
+   ],
+   "date_found": [
+    "2002",
+    "val"
+   ],
+   "age": [
+    " 18,370 +/- 350 BP",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, hair, soft tissue - missing tusks and teeth",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Hair samples dated in Oxford (uncertain)",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1038.3,
+   "y": 115.9
+  },
+  {
+   "id": 107,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Maxunuokha River",
+   "lat": 87.46667,
+   "lon": 140.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71° 52΄ 988\" N",
+   "lon_raw": "140° 34΄ 873΄΄ E",
+   "date_coll": [
+    "2002-2004",
+    "val"
+   ],
+   "date_found": [
+    "2002",
+    "val"
+   ],
+   "age": [
+    "22,500 cal. BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "head, soft tissue, spine, ribs, leg, complete foot, fur, tusks, temporal gland",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "head extracted in Sept. 2002; other remains incl. leg and foot extracted June-Sept. 2003; fur and other fur extracted June 2004; vertebral column, rib cage, intestine extracted Setp. 2004;  ",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1280.0,
+   "y": -12.3
+  },
+  {
+   "id": 108,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Olchan Mine",
+   "lat": 64.82708,
+   "lon": 142.54539,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "64°49'37.5\"N",
+   "lon_raw": "142°32'43.4\"E",
+   "date_coll": [
+    "2004",
+    "val"
+   ],
+   "date_found": [
+    "2004",
+    "val"
+   ],
+   "age": [
+    "44, 800 yr. BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "head, trunk, neck, part of chest",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "skin radiocarbon dated at Groningenm 2004; ",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1290.2,
+   "y": 177.4
+  },
+  {
+   "id": 109,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus columbi",
+   "secondary": null,
+   "location": "Los Angeles",
+   "lat": 34.06381,
+   "lon": -118.35919,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "34°03'49.7\"N",
+   "lon_raw": "118°21'33.1\"W",
+   "date_coll": [
+    "2009",
+    "val"
+   ],
+   "date_found": [
+    "2006",
+    "val"
+   ],
+   "age": [
+    "36, 770 +/- 750 BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Skeleton",
+    "val"
+   ],
+   "stored": [
+    "Los Angeles",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 246.6,
+   "y": 435.2
+  },
+  {
+   "id": 110,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Yamala Peninsula",
+   "lat": 68.84533,
+   "lon": 70.77328,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "68°50'43.2\"N",
+   "lon_raw": "70°46'23.8\"E",
+   "date_coll": [
+    "2007",
+    "val"
+   ],
+   "date_found": [
+    "2007",
+    "val"
+   ],
+   "age": [
+    "41910 BP",
+    "val"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "Soft tissue, skeleton, skin, hair",
+    "val"
+   ],
+   "stored": [
+    "Salekhard",
+    "val"
+   ],
+   "dispersal": [
+    "Specimen sent to Japan first for study",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1003.1,
+   "y": 143.7
+  },
+  {
+   "id": 114,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Kastykhtakh River",
+   "lat": 70.76706,
+   "lon": 90.66389,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "70°46'01.4\"N",
+   "lon_raw": "90°39'50.0\"E",
+   "date_coll": [
+    "2008",
+    "val"
+   ],
+   "date_found": [
+    "2008",
+    "val"
+   ],
+   "age": [
+    "26, 830 +/- 430 BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Mostly complete skeleton, one tusk, teeth",
+    "val"
+   ],
+   "stored": [
+    "Moscow",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1082.7,
+   "y": 127.6
+  },
+  {
+   "id": 116,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Khroma River",
+   "lat": 71.12055,
+   "lon": 144.57692,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71°07.233' N",
+   "lon_raw": "144°34.615'E",
+   "date_coll": [
+    "2009",
+    "val"
+   ],
+   "date_found": [
+    "2008",
+    "val"
+   ],
+   "age": [
+    "older than 45, 000 yr. BP",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "Parts of head, trunk, shoulders; skull, diaphram, skin, skeleton, soft tissues",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1298.3,
+   "y": 124.7
+  },
+  {
+   "id": 119,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "(Yukagir) Dmitri Laptev Sea Coast",
+   "lat": 72.64781,
+   "lon": 142.02044,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "72°38'52.1\"N",
+   "lon_raw": "142°01'13.6\"E",
+   "date_coll": [
+    "2010",
+    "val"
+   ],
+   "date_found": [
+    "2009",
+    "val"
+   ],
+   "age": [
+    "39, 440-38, 850 cal. BP.",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, skin, hair, soft tissues, brain",
+    "val"
+   ],
+   "stored": [
+    "Moscow",
+    "val"
+   ],
+   "dispersal": [
+    "Specimen sent first to Yakutsk for study, 2010-2014",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1288.1,
+   "y": 111.9
+  },
+  {
+   "id": 120,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Khoma River",
+   "lat": 55.30847,
+   "lon": 47.35546,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "55.308466",
+   "lon_raw": "47.355457",
+   "date_coll": [
+    "2010",
+    "val"
+   ],
+   "date_found": [
+    "2009",
+    "val"
+   ],
+   "age": [
+    "33640±270",
+    "val"
+   ],
+   "complete": [
+    "Not recorded",
+    "na"
+   ],
+   "parts": [
+    "Not recorded",
+    "na"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 909.4,
+   "y": 257.2
+  },
+  {
+   "id": 121,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Chernyanka River",
+   "lat": 58.45,
+   "lon": 49.11667,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "58° 27' N",
+   "lon_raw": "48° 67' E",
+   "date_coll": [
+    "2010",
+    "val"
+   ],
+   "date_found": [
+    "2010",
+    "val"
+   ],
+   "age": [
+    "24280 ± 670 BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "Tusk, lumbar vertebrae, ribs, scapula, humerus, ulna, scaphoideum, lunatum, triquetrum, pisiform, trapezium, trapezoid, capitate, hamatum, phalanges, sesamoid bone, pelvis",
+    "val"
+   ],
+   "stored": [
+    "Kirov",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 916.5,
+   "y": 230.8
+  },
+  {
+   "id": 123,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Tumat",
+   "lat": 71.02833,
+   "lon": 139.84694,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71°01'42.0\"N",
+   "lon_raw": "139 ° 50' 49\"E",
+   "date_coll": [
+    "2011",
+    "val"
+   ],
+   "date_found": [
+    "2011",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Bones, skull",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1279.4,
+   "y": 125.5
+  },
+  {
+   "id": 126,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": "SK Mammoth",
+   "location": "Yenisei River (Sopochnaya Karga Cape)",
+   "lat": 71.89714,
+   "lon": 82.71039,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "71°53'49.7\"N",
+   "lon_raw": "82°42'37.4\"E",
+   "date_coll": [
+    "2012",
+    "val"
+   ],
+   "date_found": [
+    "2012",
+    "val"
+   ],
+   "age": [
+    "45,000-57,800 cal. BP.",
+    "val"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "Skeleton, skin, hair, soft tissue",
+    "val"
+   ],
+   "stored": [
+    "St. Petersburg",
+    "val"
+   ],
+   "dispersal": [
+    "Specimen stored at Dudinka; 2012-2013",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1050.8,
+   "y": 118.2
+  },
+  {
+   "id": 136,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Lake Pechenelava-To",
+   "lat": null,
+   "lon": null,
+   "src": "unplaced",
+   "geonote": "Lake Pechenelava-To (Yamal) — exact lake not geocoded.",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "2020",
+    "val"
+   ],
+   "date_found": [
+    "2020",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "skeleton, tendons, tail, soft tissue, feces, fur",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": null,
+   "y": null
+  },
+  {
+   "id": 137,
+   "species": "Mammoth",
+   "color": "#e8b04b",
+   "binomial": "Mammuthus primigenius",
+   "secondary": null,
+   "location": "Kenosha County",
+   "lat": 42.50861,
+   "lon": -88.02833,
+   "src": "geocoded",
+   "geonote": "Kenosha County, Wisconsin — coordinates not in record (county area).",
+   "lat_raw": "?",
+   "lon_raw": "?",
+   "date_coll": [
+    "Unknown",
+    "q"
+   ],
+   "date_found": [
+    "Unknown",
+    "q"
+   ],
+   "age": [
+    "11, 240-11, 220 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "back right femur",
+    "val"
+   ],
+   "stored": [
+    "Unknown",
+    "q"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 367.9,
+   "y": 364.4
+  }
+ ]
+}

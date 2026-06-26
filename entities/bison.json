@@ -1,0 +1,632 @@
+{
+ "species": "Bison",
+ "binomial": "Bison",
+ "color": "#9bd17f",
+ "count": 13,
+ "recs": [
+  {
+   "id": 22,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Yana River",
+   "lat": 71.27958,
+   "lon": 136.14081,
+   "src": "sibling",
+   "geonote": "Borrowed from another Yana River specimen (id 21).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1885-1886",
+    "val"
+   ],
+   "date_found": [
+    "1885",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "mummified middle portion of hind leg",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1264.6,
+   "y": 123.3
+  },
+  {
+   "id": 47,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Unknown",
+   "lat": null,
+   "lon": null,
+   "src": "unplaced",
+   "geonote": "No location recorded.",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1934-1936",
+    "val"
+   ],
+   "date_found": [
+    "1934",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "two Mummified distal legs",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": null,
+   "y": null
+  },
+  {
+   "id": 48,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Unknown",
+   "lat": null,
+   "lon": null,
+   "src": "unplaced",
+   "geonote": "No location recorded.",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1936",
+    "val"
+   ],
+   "date_found": [
+    "1936",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "mummified distal leg",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": null,
+   "y": null
+  },
+  {
+   "id": 51,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Struyka River",
+   "lat": null,
+   "lon": null,
+   "src": "unplaced",
+   "geonote": "Struyka River — locality not reliably geocoded.",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1946",
+    "val"
+   ],
+   "date_found": [
+    "1946",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "mummified distal forefoot with hoof",
+    "val"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "UAM:Mamm:54444",
+    "val"
+   ],
+   "x": null,
+   "y": null
+  },
+  {
+   "id": 55,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Dome Creek",
+   "lat": 65.05,
+   "lon": -147.4,
+   "src": "geocoded",
+   "geonote": "Fairbanks gold-creek district, interior Alaska (approximate).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1952",
+    "val"
+   ],
+   "date_found": [
+    "1952",
+    "val"
+   ],
+   "age": [
+    "28, 000 yr. BP",
+    "val"
+   ],
+   "complete": [
+    "Not recorded",
+    "na"
+   ],
+   "parts": [
+    "Not recorded",
+    "na"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 130.4,
+   "y": 175.5
+  },
+  {
+   "id": 56,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Fairbanks Creek",
+   "lat": 65.06892,
+   "lon": -147.25703,
+   "src": "sibling",
+   "geonote": "Borrowed from other Fairbanks Creek specimens (id 50/52).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "1952",
+    "val"
+   ],
+   "date_found": [
+    "1952",
+    "val"
+   ],
+   "age": [
+    "11, 950 +/- 135 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Not recorded",
+    "na"
+   ],
+   "parts": [
+    "Not recorded",
+    "na"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 131.0,
+   "y": 175.4
+  },
+  {
+   "id": 63,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison antiquus",
+   "secondary": null,
+   "location": "Liard River",
+   "lat": 61.08389,
+   "lon": -123.0,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "61°5'2\" N",
+   "lon_raw": "123°0' W",
+   "date_coll": [
+    "1967",
+    "val"
+   ],
+   "date_found": [
+    "1967",
+    "val"
+   ],
+   "age": [
+    "Not recorded",
+    "na"
+   ],
+   "complete": [
+    "Fragments_Only",
+    "val"
+   ],
+   "parts": [
+    "Partial Skull, including horn cores",
+    "val"
+   ],
+   "stored": [
+    "Yellowknife",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 228.0,
+   "y": 208.8
+  },
+  {
+   "id": 74,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Indigirka River",
+   "lat": 64.66667,
+   "lon": 147.75,
+   "src": "sibling",
+   "geonote": "Borrowed from another Indigirka River specimen (id 64).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "Not recorded",
+    "na"
+   ],
+   "date_found": [
+    "1974",
+    "val"
+   ],
+   "age": [
+    "29,500 BP",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "Not recorded",
+    "na"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1311.0,
+   "y": 178.8
+  },
+  {
+   "id": 84,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Pearl Creek",
+   "lat": 65.98333,
+   "lon": -47.31667,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "65°59'N",
+   "lon_raw": "47° 19'W",
+   "date_coll": [
+    "1979",
+    "val"
+   ],
+   "date_found": [
+    "1979",
+    "val"
+   ],
+   "age": [
+    "36, 000 yr. BP",
+    "val"
+   ],
+   "complete": [
+    "Mostly_Complete",
+    "val"
+   ],
+   "parts": [
+    "skin, bones, hair, hoofs, teeth, soft tissue, skeleton, horns",
+    "val"
+   ],
+   "stored": [
+    "Fairbanks",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 530.7,
+   "y": 167.7
+  },
+  {
+   "id": 111,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Tsiigehtchic",
+   "lat": 67.44056,
+   "lon": -133.74528,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "67°26'26\"N",
+   "lon_raw": "133°44'43\"W",
+   "date_coll": [
+    "2007",
+    "val"
+   ],
+   "date_found": [
+    "2007",
+    "val"
+   ],
+   "age": [
+    "11,830 ± 45 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "a complete cranium with horn cores and sheaths, several complete post-cranial elements (many\nof which have some mummified soft tissue), intestines and a large piece of hide ",
+    "val"
+   ],
+   "stored": [
+    "Yellowknife",
+    "val"
+   ],
+   "dispersal": [
+    " a sample was sent to the Oxford Radiocarbon Acceleration for dating, 2008; hair sample sent to Pennsylvannia State University for mitochondrial DNA typing, 2008",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 185.0,
+   "y": 155.5
+  },
+  {
+   "id": 117,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Batagaika crater",
+   "lat": 67.58,
+   "lon": 134.77139,
+   "src": "sibling",
+   "geonote": "Borrowed from the dated Batagaika crater specimen (id 135).",
+   "lat_raw": null,
+   "lon_raw": null,
+   "date_coll": [
+    "2009",
+    "val"
+   ],
+   "date_found": [
+    "2009",
+    "val"
+   ],
+   "age": [
+    "8215 +/- 45 cal. BP",
+    "val"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "Not recorded",
+    "na"
+   ],
+   "stored": [
+    "Not recorded",
+    "na"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1259.1,
+   "y": 154.3
+  },
+  {
+   "id": 124,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Chukchalakh Lake",
+   "lat": 72.29167,
+   "lon": 140.90139,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "72°17'30\"N",
+   "lon_raw": "140°54'05\"E",
+   "date_coll": [
+    "2011",
+    "val"
+   ],
+   "date_found": [
+    "2011",
+    "val"
+   ],
+   "age": [
+    "9 300 cal. BP",
+    "val"
+   ],
+   "complete": [
+    "Complete",
+    "val"
+   ],
+   "parts": [
+    "bones, skin, hoofs, hair, soft tissue, teeth",
+    "val"
+   ],
+   "stored": [
+    "Yakutsk",
+    "val"
+   ],
+   "dispersal": [
+    "Stored in Yukagir village, early 2011; Yakutian Academy of Sciences, Yakutsk, 2012; ",
+    "val"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1283.6,
+   "y": 114.9
+  },
+  {
+   "id": 125,
+   "species": "Bison",
+   "color": "#9bd17f",
+   "binomial": "Bison priscus",
+   "secondary": null,
+   "location": "Raucha River",
+   "lat": 69.3,
+   "lon": 166.6,
+   "src": "exact",
+   "geonote": null,
+   "lat_raw": "69°18'N",
+   "lon_raw": "166°36'E",
+   "date_coll": [
+    "2012",
+    "val"
+   ],
+   "date_found": [
+    "2012",
+    "val"
+   ],
+   "age": [
+    "8030 +/- 70 yr BP - 9497 +/- 92 yr BP",
+    "val"
+   ],
+   "complete": [
+    "Partial",
+    "val"
+   ],
+   "parts": [
+    "rump, bones, fur, stomach contents",
+    "val"
+   ],
+   "stored": [
+    "Moscow",
+    "val"
+   ],
+   "dispersal": [
+    "Not recorded",
+    "na"
+   ],
+   "catalog": [
+    "Not recorded",
+    "na"
+   ],
+   "x": 1386.4,
+   "y": 139.9
+  }
+ ]
+}
